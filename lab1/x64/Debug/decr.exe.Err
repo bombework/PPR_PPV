@@ -1,0 +1,15 @@
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\decr.exe.Err
+Fri Dec 09 21:41:53 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\decr.exe.Err
+Fri Dec 09 21:42:43 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\decr.exe.Err
+Fri Dec 09 21:44:20 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------

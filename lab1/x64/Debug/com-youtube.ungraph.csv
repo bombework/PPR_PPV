@@ -1,0 +1,3 @@
+1000,452813,5688,*** Error: Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+2000,452813,5734,*** Error: Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+1000,452813,5813,*** Error: Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346

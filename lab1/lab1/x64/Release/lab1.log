@@ -1,0 +1,44 @@
+﻿生成启动时间为 2016/12/11 16:11:55。
+     1>项目“C:\Users\liliang\Desktop\dongyang\lab1\lab1\lab1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\lab1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Release\lab1.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt lab5.cpp
+         lab5.cpp
+     1>lab5.cpp(140): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(225): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(226): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(287): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(339): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(341): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(346): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(364): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(366): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(371): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(420): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(431): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(431): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(431): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(431): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+     1>lab5.cpp(434): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+     1>lab5.cpp(434): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\liliang\Desktop\dongyang\lab1\x64\Release\lab1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\lab1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\liliang\Desktop\dongyang\lab1\x64\Release\lab1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\liliang\Desktop\dongyang\lab1\x64\Release\lab1.lib" /MACHINE:X64 x64\Release\Snap.obj
+         x64\Release\lab5.obj
+         x64\Release\pqueue.obj
+         x64\Release\pqueue_double.obj
+         x64\Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         lab1.vcxproj -> C:\Users\liliang\Desktop\dongyang\lab1\x64\Release\lab1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\liliang\Desktop\dongyang\lab1\x64\Release\lab1.exe;#1" /manifest x64\Release\lab1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\lab1.unsuccessfulbuild”。
+         正在对“x64\Release\lab1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\liliang\Desktop\dongyang\lab1\lab1\lab1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.44

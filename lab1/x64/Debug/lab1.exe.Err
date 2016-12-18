@@ -1,0 +1,145 @@
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Sun Dec 04 21:22:40 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'801787 or 2200927 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Mon Dec 05 07:20:11 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'8471 or 5834 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 322
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Mon Dec 05 07:22:55 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'9006 or 31869 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 322
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Thu Dec 08 22:03:11 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'12111 or 140 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:46:10 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:591 Vals:591 MxVals:597 Type:TVec<class TInt,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:47:05 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:296 Vals:295 MxVals:297 Type:TVec<class TInt,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:47:26 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:304 Vals:304 MxVals:309 Type:TVec<class TInt,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:48:00 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:48:53 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:49:19 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:50:19 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:50:35 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:54:41 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:55:50 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:58:14 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 07:58:53 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 08:00:38 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 08:05:59 2016
+Execution stopped: (KeyDatI!=NULL)&&(KeyDatI->HashCd!=-1), file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\hash.h, line 72
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 13:16:00 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 14:45:46 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 14:46:02 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 14:49:32 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 14:51:09 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 14:51:45 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 14:52:14 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 21:45:01 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 21:47:55 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 21:48:41 2016
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 0 not a node.'], file c:\users\liliang\desktop\dongyang\snap-3.0\snap-core\graph.cpp, line 346
+--------
+--------
+C:\Users\liliang\Desktop\dongyang\lab1\x64\Debug\lab1.exe.Err
+Fri Dec 09 21:50:24 2016
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:1134890 MxVals:1134890 Type:TVec<class THashKeyDat<class TInt,class TNGraph::TNode>,int>'], file c:\users\liliang\desktop\dongyang\snap-3.0\glib-core\ds.h, line 464
+--------
